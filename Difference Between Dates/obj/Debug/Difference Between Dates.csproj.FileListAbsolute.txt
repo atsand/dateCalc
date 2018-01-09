@@ -1,0 +1,7 @@
+C:\Users\GOAT\Desktop\Grand Circus\Pre-work\Deliverables\Difference Between Dates\Difference Between Dates\bin\Debug\Difference Between Dates.exe.config
+C:\Users\GOAT\Desktop\Grand Circus\Pre-work\Deliverables\Difference Between Dates\Difference Between Dates\bin\Debug\Difference Between Dates.exe
+C:\Users\GOAT\Desktop\Grand Circus\Pre-work\Deliverables\Difference Between Dates\Difference Between Dates\bin\Debug\Difference Between Dates.pdb
+C:\Users\GOAT\Desktop\Grand Circus\Pre-work\Deliverables\Difference Between Dates\Difference Between Dates\obj\Debug\Difference Between Dates.csproj.CoreCompileInputs.cache
+C:\Users\GOAT\Desktop\Grand Circus\Pre-work\Deliverables\Difference Between Dates\Difference Between Dates\obj\Debug\Difference Between Dates.exe
+C:\Users\GOAT\Desktop\Grand Circus\Pre-work\Deliverables\Difference Between Dates\Difference Between Dates\obj\Debug\Difference Between Dates.pdb
+C:\Users\GOAT\Desktop\Grand Circus\Pre-work\Deliverables\Difference Between Dates\Difference Between Dates\obj\Debug\Difference Between Dates.csprojResolveAssemblyReference.cache
